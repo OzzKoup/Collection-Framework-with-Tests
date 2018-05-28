@@ -10,10 +10,8 @@ Checkstyle
 
 The plugin "checkstyle" is in src/checkstyle folder. It consists of 2 parts : jar and xml(configurated rules);
 
-#Task descriprion :
+#Project descriprion :
 
-Write an application that takes a string and returns the number of unique characters in the string. It is expected that a string with the same character sequence may be passed several times to the method. Since the counting operation can be time consuming, the method should cache the results, so that when the method is given a string previously encountered, it will simply retrieve the stored result. Use collections and maps where appropriate.
+The goal of this app is separating the words and count unique symbols with console output. 
+It has a cache and differnt tests by JUnit, Mockito etc.
 
-E.g.
-
-hello world! "h" - 1 "e" - 1 "l" - 3 "o" - 2 "w" - 1 "r" - 1 "d" - 1 "!" - 1 " " - 1
