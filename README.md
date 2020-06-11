@@ -15,3 +15,4 @@ The plugin "checkstyle" is in src/checkstyle folder. It consists of 2 parts : ja
 The goal of this app is separating the words and count unique symbols with console output. 
 It has a cache and differnt tests by JUnit, Mockito etc.
 
+
